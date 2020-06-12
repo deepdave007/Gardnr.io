@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gardnr.io</string>
+    <string name="namehint">name</string>
+    <string name="emailhint">email</string>
+    <string name="passwordhint">password</string>
+    <string name="confirmpasswordhint">confirm password</string>
+</resources>

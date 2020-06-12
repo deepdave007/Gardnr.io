@@ -1,0 +1,2 @@
+rootProject.name='Gardnr.io'
+include ':app'

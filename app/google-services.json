@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680870740914",
+    "firebase_url": "https://gardnrio.firebaseio.com",
+    "project_id": "gardnrio",
+    "storage_bucket": "gardnrio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680870740914:android:e9b3590b77fe3a8799daab",
+        "android_client_info": {
+          "package_name": "com.example.gardnrio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680870740914-t1t6forqi7gu0pej62kdksn9jf5dj7in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gardnrio",
+            "certificate_hash": "ed24e87429393516a26bf40893b560affc8e5382"
+          }
+        },
+        {
+          "client_id": "680870740914-qgent04ujigis0c01v07e2f2nb4jafpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8fLNkP-YOJjYNo5td87SG2-As6X8-Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680870740914-qgent04ujigis0c01v07e2f2nb4jafpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
